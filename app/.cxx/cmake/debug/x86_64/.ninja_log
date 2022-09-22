@@ -1,0 +1,6 @@
+# ninja log v5
+0	822	1663861068	CMakeFiles/blazefacencnn.dir/ndkcamera.cpp.o	3340eaf0f10693ac
+0	899	1663861068	CMakeFiles/blazefacencnn.dir/blazefacencnn.cpp.o	2343fa388b4f7c70
+0	943	1663861068	CMakeFiles/blazefacencnn.dir/blazeface.cpp.o	6629f27bb46036ef
+943	1199	1663861069	/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/build/intermediates/cmake/debug/obj/x86_64/libblazefacencnn.so	351f907fc5ce009b
+0	5	0	clean	22c9f2f0a7f1fc45

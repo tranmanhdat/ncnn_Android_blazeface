@@ -1,0 +1,5 @@
+ninja: Entering directory `/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86_64'
+[1/4] Building CXX object CMakeFiles/blazefacencnn.dir/ndkcamera.cpp.o
+[2/4] Building CXX object CMakeFiles/blazefacencnn.dir/blazefacencnn.cpp.o
+[3/4] Building CXX object CMakeFiles/blazefacencnn.dir/blazeface.cpp.o
+[4/4] Linking CXX shared library /home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/build/intermediates/cmake/debug/obj/x86_64/libblazefacencnn.so

@@ -1,0 +1,37 @@
+{
+  "ndkFolder": "/home/trandat/Android/Sdk/ndk/21.4.7075529",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is /home/trandat/Android/Sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/trandat/Android/Sdk/ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/trandat/Android/Sdk/ndk/21.4.7075529 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/trandat/Android/Sdk/ndk/21.1.6352462 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "No user requested version, choosing /home/trandat/Android/Sdk/ndk/21.4.7075529 which is version 21.4.7075529"
+    }
+  ]
+}

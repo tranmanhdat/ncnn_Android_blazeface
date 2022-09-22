@@ -1,0 +1,68 @@
+{
+  "stringTable": {
+    "0": "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android24 --gcc-toolchain=/home/trandat/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/trandat/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dblazefacencnn_EXPORTS -isystem /home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/include/ncnn -isystem /home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "/home/trandat/Android/Sdk/ndk/21.4.7075529/build/cmake/platforms.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/abi-x86_64/OpenCVModules.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/abi-x86_64/OpenCVModules-release.cmake",
+    "/home/trandat/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/OpenCVConfig-version.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/SPIRVTargets-release.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/CMakeLists.txt",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/OpenCVConfig.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/glslangTargets-release.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/ncnn/ncnn.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OSDependentTargets-release.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/glslangTargets.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OSDependentTargets.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/OGLCompilerTargets-release.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/ncnn/ncnn-release.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/opencv-mobile-4.5.4-android/sdk/native/jni/abi-x86_64/OpenCVConfig.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/ncnn/ncnnConfig.cmake",
+    "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/lib/cmake/SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "/home/trandat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/trandat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "blazefacencnn-Debug-x86_64": {
+      "buildCommand": "/home/trandat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86_64\" blazefacencnn",
+      "buildType": "debug",
+      "toolchain": "1912402213",
+      "abi": "x86_64",
+      "artifactName": "blazefacencnn",
+      "files": [
+        {
+          "src": "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/blazefacencnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/blazeface.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/src/main/jni/ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/build/intermediates/cmake/debug/obj/x86_64/libblazefacencnn.so"
+    }
+  },
+  "toolchains": {
+    "1912402213": {
+      "cppCompilerExecutable": "/home/trandat/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

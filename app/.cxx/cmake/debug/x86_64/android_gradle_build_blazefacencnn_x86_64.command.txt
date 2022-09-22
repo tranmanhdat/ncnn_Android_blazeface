@@ -1,0 +1,7 @@
+Executable : /home/trandat/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86_64
+blazefacencnn
+jvmArgs : 
+

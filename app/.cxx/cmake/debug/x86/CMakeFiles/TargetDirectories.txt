@@ -1,0 +1,3 @@
+/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/trandat/project/VIETTEC/Face_recognition/android_dev/ncnn_Android_blazeface/app/.cxx/cmake/debug/x86/CMakeFiles/blazefacencnn.dir
